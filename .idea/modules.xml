@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsumingRestFullServices.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsumingRestFullServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsumingRestFullServices_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsumingRestFullServices_main.iml" group="ConsumingRestFullServices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsumingRestFullServices_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsumingRestFullServices_test.iml" group="ConsumingRestFullServices" />
+    </modules>
+  </component>
+</project>
